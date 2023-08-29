@@ -1,0 +1,115 @@
+body {
+    width: 50em;
+    margin: auto;
+    text-align: justify;
+    text-rendering: optimizeLegibility;
+    font-kerning: normal;
+    font-variant-ligatures: common-ligatures;
+    text-justify: inter-character;
+    hyphens: auto;
+    counter-reset: sections figures;
+}
+h1 {
+    text-align: center;
+    font-size: 300%;
+    color: darkblue;
+    text-shadow: 5px 7px 3px darkgrey;
+
+}
+h2.sous-titre {
+    font-size: 200%;
+    text-align: center;
+    color: #444499;
+    text-shadow: 5px 5px 3px darkgrey;
+}
+h3.sous-titre {
+    text-align: center;
+    font-size: 75%;
+}
+h2.titre-section {
+    counter-increment: sections;
+}
+h2.titre-section::before {
+    content: counter(sections) ". ";
+}
+figure {
+    max-width: 100%;
+    text-align: center;
+    margin: auto;
+    counter-increment: figures;
+}
+figure img {
+    max-width: 100%;
+}
+h3.titre-section {
+    counter-increment: sections;
+}
+h3.titre-section::before {
+    content: counter(sections);
+}
+
+figcaption {
+    text-align: justify;
+    width: max-content;
+    margin: auto;
+    font-style: italic;
+}
+figcaption::before {
+    content: "Figure " counter(figures) " : ";
+}
+h4.sous-titre {
+    text-align: center;
+    font-style: italic;
+    font-size: 140%
+}
+footer {
+    border-top: 1px solid grey;
+    font-style: italic;
+}
+h1 {
+      animation: move 3s;
+      -webkit-animation: move 3s;
+}
+
+@keyframes move {
+      from {
+    margin-left: 100%;
+    width: 300%; 
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+    
+@keyframes move {
+  from {
+margin-left: 100%;
+width: 300%; 
+}
+
+to {
+margin-left: 0%;
+width: 100%;
+}
+}
+@keyframes fade-in-out {
+0% {
+letter-spacing: -0.5em;
+filter: blur(12px) opacity(0%);
+}
+100% {
+letter-spacing: 0;
+filter: blur(0) opacity(1);
+}
+}
+
+.blur {
+font-weight: bold;
+animation-name: fade-in-out;
+animation-duration: 4s;
+}
+body {
+font-family: sans-serif;
+}

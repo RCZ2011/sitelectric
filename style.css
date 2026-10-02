@@ -59,7 +59,6 @@ figcaption::before {
 }
 h4.sous-titre {
     text-align: center;
-    font-style: italic;
     font-size: 140%
 }
 footer {
@@ -71,45 +70,6 @@ h1 {
       -webkit-animation: move 3s;
 }
 
-@keyframes move {
-      from {
-    margin-left: 100%;
-    width: 300%; 
-  }
-
-  to {
-    margin-left: 0%;
-    width: 100%;
-  }
-}
-    
-@keyframes move {
-  from {
-margin-left: 100%;
-width: 300%; 
-}
-
-to {
-margin-left: 0%;
-width: 100%;
-}
-}
-@keyframes fade-in-out {
-0% {
-letter-spacing: -0.5em;
-filter: blur(12px) opacity(0%);
-}
-100% {
-letter-spacing: 0;
-filter: blur(0) opacity(1);
-}
-}
-
-.blur {
-font-weight: bold;
-animation-name: fade-in-out;
-animation-duration: 4s;
-}
 body {
 font-family: sans-serif;
 }

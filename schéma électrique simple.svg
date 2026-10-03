@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <g transform="matrix(1, 0, 0, 1, 5.581818, 12.345454)">
+  <g transform="matrix(1.596236, 0, 0, 1.596236, -148.366852, -134.181946)" style="">
     <path d="M 259.777 119.405 L 358.186 119.405 L 358.186 328.605 C 201.287 328.605 148.986 328.605 148.986 328.605 L 148.986 119.243 L 240.5 119.527" style="stroke: rgb(0, 0, 0); fill: none; stroke-width: 3px;" transform="matrix(-1, 0, 0, -1, 507.17193607, 447.84803046)"/>
   </g>
-  <ellipse style="stroke: rgb(0, 0, 0); fill: rgb(235, 235, 235); stroke-width: 3px;" cx="259.421" cy="131.881" rx="28.96" ry="28.96"/>
-  <line style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 2px;" x1="240.649" y1="152.3" x2="278.134" y2="111.628"/>
-  <line style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 2px;" x1="238.469" y1="112.939" x2="280.964" y2="151.74"/>
-  <rect x="253.397" y="330.097" width="4.705" height="21.637" style="stroke: rgb(0, 0, 0);"/>
-  <rect x="268.763" y="319.735" width="3.887" height="43.909" style="stroke: rgb(0, 0, 0); stroke-width: 0px;"/>
-  <polyline style="fill: none; stroke: rgb(0, 0, 0);" points="254.94 187.641 254.985 165.774 249.886 172.985"/>
-  <path style="fill: none; stroke: rgb(0, 0, 0);" d="M 261.984 172.685 L 255.77 165.594 L 255.911 187.601"/>
-  <polyline style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1;" points="261.784 390.227 261.829 368.36 256.73 375.571"/>
-  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 1;" d="M 268.828 375.271 L 262.614 368.18 L 262.755 390.187"/>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" transform="matrix(0.82897, 0, 0, 0.82897, 31.891615, 37.060795)"><tspan x="215.043" y="201.646">Ampoule</tspan><tspan x="215.043" dy="1em">​</tspan></text>
-  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" transform="matrix(0.82897, 0, 0, 0.82897, 44.087162, 241.263947)"><tspan x="215.043" y="201.646">Batterie</tspan><tspan x="215.04299926757812" dy="1em">​</tspan></text>
+  <ellipse style="stroke: rgb(0, 0, 0); fill: rgb(235, 235, 235); stroke-width: 3px;" cx="256.82" cy="56.626" rx="46.227" ry="46.227"/>
+  <line style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 2px;" x1="226.856" y1="89.219" x2="286.691" y2="24.297"/>
+  <line style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 2px;" x1="223.376" y1="26.389" x2="291.208" y2="88.325"/>
+  <rect x="247.204" y="373.025" width="7.51" height="34.538" style="stroke: rgb(0, 0, 0);"/>
+  <rect x="271.732" y="356.485" width="6.205" height="70.089" style="stroke: rgb(0, 0, 0); stroke-width: 0px;"/>
+  <polyline style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 2px;" points="249.667 145.631 249.739 110.726 241.6 122.237"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 2px;" d="M 259.911 121.758 L 249.993 110.439 L 250.217 145.568"/>
+  <polyline style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 2px;" points="260.592 469.006 260.664 434.101 252.524 445.612"/>
+  <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 2px;" d="M 270.837 445.133 L 260.917 433.814 L 261.143 468.943"/>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" transform="matrix(1.323232, 0, 0, 1.323232, -106.370201, -94.730423)"><tspan x="215.043" y="201.646">Ampoule</tspan><tspan x="215.043" dy="1em">​</tspan></text>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" transform="matrix(1.323232, 0, 0, 1.323232, -86.903221, 231.226059)"><tspan x="215.043" y="201.646">Batterie</tspan><tspan x="215.04299926757812" dy="1em">​</tspan></text>
 </svg>
